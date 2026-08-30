@@ -1,5 +1,8 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
-
+Date: 29.08.2026
+Name: Muthu selvi R
+Reg no: 212225240094
+Dept: B.tech-AIML
 ## Aim: 
 
 To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network .
